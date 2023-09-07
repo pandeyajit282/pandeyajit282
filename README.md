@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I am Ajit Pandey, an Aspiring Data Analyst
-- I am good in Mathematics and Statistics, Machine Learning, RDBMS
-- Languages and Tools: MS Office, Python, SQL Server, Power BI
+- Proficient in Mathematics, Statistics, Machine Learning, and RDBMS.
+- Skilled in using MS Office, Python, SQL Server, and Power BI to extract actionable insights from data.
 - How to reach me pandeyajit282@gmail.com
   
 <!--
