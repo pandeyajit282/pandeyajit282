@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- I am Ajit Pandey, an Aspiring Data Analyst.
-- 
+- I am Ajit Pandey, an Aspiring Data Analyst
+- I am good in Mathematics and Statistics, Machine Learning, RDBMS
+- Languages and Tools: MS Office, Python, SQL Server, Power BI
+- How to reach me pandeyajit282@gmail.com
+  
 <!--
 **pandeyajit282/pandeyajit282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
