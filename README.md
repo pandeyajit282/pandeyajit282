@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I am Ajit Pandey, an Aspiring Data Analyst.
+- 
 <!--
 **pandeyajit282/pandeyajit282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
