@@ -3,8 +3,9 @@
 - I am Ajit Pandey, an Aspiring Data Analyst
 - Proficient in Mathematics, Statistics, Machine Learning, and RDBMS.
 - Skilled in using MS Office, Python, SQL Server, and Power BI to extract actionable insights from data.
-- How to reach me pandeyajit282@gmail.com
 - https://www.linkedin.com/in/pandeyajit282/
+- How to reach me pandeyajit282@gmail.com
+
   
 <!--
 **pandeyajit282/pandeyajit282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
